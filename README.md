@@ -11,7 +11,7 @@ I specialize in bridging the gap between development teams, customers, and vendo
 - **Linux Administration**: RHEL, CentOS, Ubuntu 🐧
 - **Cloud Platforms**: AWS (EC2, VPC, IAM, etc.) ☁️
 - **Container Orchestration**: Docker 🐳, Kubernetes ☸️
-- **IaC & Automation**: Ansible, Puppet/Foreman, GitLab CI/CD 🔄
+- **IaC & Automation**: Ansible, Puppet/Foreman, GitLab CI/CD, ArgoCD, Helm 🔄
 
 ### Telecom Expertise
 - Messaging Platforms: SMPP, SMSC, MMSC, CSC, CMAS/eWEA 📱
@@ -26,7 +26,7 @@ I specialize in bridging the gap between development teams, customers, and vendo
 
 ## Professional Highlights
 - **Designed & maintained zero-breach Cisco network environments** across multi-site WANs. 🛡️
-- **Led successful cloud migrations** reducing operational friction. 🚀
+- **Led successful migrations** reducing operational friction. 🚀
 - Partnered with dev teams to accelerate delivery and resolve cross-stack issues. ⚡
 - Implemented DR processes protecting production uptime 24/7. ⏰
 - CCNA & CompTIA Certified. 📜
