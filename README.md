@@ -1,7 +1,5 @@
 # 🚀 Hi there, I'm an Application Engineer with Telecom & Cloud Expertise! 👋
 
-![Profile Banner](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21obDRlMnZ6bnVqZGVscW1ibGt3d25iMHZjb2NxanN6OXFzejAyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aCPrt070noQiR7a/giphy.gif)
-
 ## About Me
 **Passionate Application Engineer** with **9+ years** of hands-on experience architecting and supporting **mission-critical telecom and cloud infrastructure**. I thrive in dynamic environments where reliability, scalability, and innovation intersect! 💼✨
 
