@@ -1,6 +1,6 @@
 # 🚀 Hi there, I'm an Application Engineer with Telecom & Cloud Expertise! 👋
 
-![Profile Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW1hZ2UtbWVkaWEtZ2lwaHktY29udGVudC1zZWFyY2gmc3JjPXM2cDcyNmtpb2x1eTJ1N2F3Z2dmbmJ2d3N5d2Z5dG1lN2Z3bW1pdnB2aW1hZ2UmcnQ9MQ/v1.Y2lkPTc5MGI3NjExaW1hZ2UtbWVkaWEtZ2lwaHktY29udGVudC1zZWFyY2gmc3JjPXM2cDcyNmtpb2x1eTJ1N2F3Z2dmbmJ2d3N5d2Z5dG1lN2Z3bW1pdnB2aW1hZ2UmcnQ9MQ/3o7btPCcdH2s3l0qde/giphy.gif)
+![Profile Banner](https://media0.giphy.com/media/3o7btPCcdH2s3l0qde/giphy.gif)
 
 ## About Me
 **Passionate Application Engineer** with **9+ years** of hands-on experience architecting and supporting **mission-critical telecom and cloud infrastructure**. I thrive in dynamic environments where reliability, scalability, and innovation intersect! 💼✨
@@ -25,8 +25,6 @@ I specialize in bridging the gap between development teams, customers, and vendo
 - Disaster Recovery & High Availability
 - Cross-team Collaboration & Mentoring 👥
 - Troubleshooting complex multi-vendor issues 🕵️‍♂️
-
-![Tech Stack](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2lwaHktY29udGVudC1zZWFyY2gmc3JjPXM2cDcyNmtpb2x1eTJ1N2F3Z2dmbmJ2d3N5d2Z5dG1lN2Z3bW1pdnB2aW1hZ2UmcnQ9MQ/3o7btPCcdH2s3l0qde/giphy.gif)
 
 ## Professional Highlights
 - **Designed & maintained zero-breach Cisco network environments** across multi-site WANs. 🛡️
