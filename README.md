@@ -9,7 +9,7 @@ I specialize in bridging the gap between development teams, customers, and vendo
 
 ### Infrastructure & Cloud
 - **Linux Administration**: RHEL, CentOS, Ubuntu 🐧
-- **Cloud Platforms**: AWS (EC2, VPC, IAM, etc.) ☁️
+- **Cloud Platforms**: AWS (EC2, EKS, VPC, IAM, etc.) ☁️
 - **Container Orchestration**: Docker 🐳, Kubernetes ☸️
 - **IaC & Automation**: Ansible, Puppet/Foreman, GitLab CI/CD, ArgoCD, Helm 🔄
 
