@@ -34,7 +34,7 @@ I specialize in bridging the gap between development teams, customers, and vendo
 ## Let's Connect!
 I'm always open to interesting opportunities, collaborations, or just a good tech chat. Feel free to reach out! 
 
-📧 Email | 💼 LinkedIn | 🐙 GitHub
+📧 [Email](yorodriguez19@yahoo.com) | 💼 [Linkedin](https://www.linkedin.com/in/yoan-rodriguez-1892a96a) | 🐙 [GitHub](https://github.com/djken09)
 
 ---
 
